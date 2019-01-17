@@ -1,2 +1,2 @@
 # Javascript
-Contains JavaSciript projects 
+This repository contains Javascript projects I have previously worked on.
